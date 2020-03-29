@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Manager of the Intelligent Software Systems group
+role: Manager of the Intelligent Software Systems Group
 
 # Organizations/Affiliations
 organizations:
 - name: NEC Laboratories Europe
-  url: "neclab.eu"
+  url: "http://neclab.eu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research is about computer systems, with the aim of democratizing a sustainable computing model.
 
 interests:
-- Networked systems
-- Machine Learning for Systems
-- High-performance systems
+- Networked Systems
+- Systems Efficiency and Performance
+- Systems Analysis
 
 education:
   courses:
@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:roberto.bifulco@neclab.eu".
+  link: 'mailto:roberto.bifulco@neclab.eu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RoBBifulco
@@ -61,6 +61,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Roberto Bifulco leads the Intelligent Software Systems (ISS) group at the NEC Laboratories Europe, in Heidelberg (Germany).
+His main research contributions are in the field of high-performance networked systems, especially for the broadband network infrastructure.
+His current research interests include efficient heterogeneous systems, networked systems analysis and sustainable edge computing.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Roberto's expertise is complemented by a formidable group of colleagues in the ISS group, covering a larger spectrum of topics ranging from high-performance computing systems to specialized operating systems for cloud servers and embedded devices.
