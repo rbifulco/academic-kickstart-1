@@ -20,16 +20,16 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research is about computer systems, with the aim of democratizing a sustainable computing model.
 
-interests:
-- Networked Systems
-- Systems Efficiency and Performance
-- Systems Analysis
+#interests:
+#- Networked Systems 
+#- Systems Analysis and Understanding
+#- High-performance Systems
 
-education:
-  courses:
-  - course: PhD in Computer Systems and Automation
-    institution: University of Napoli "Federico II"
-    year: 2013
+#education:
+#  courses:
+#  - course: PhD in Computer Systems and Automation
+#    institution: University of Napoli "Federico II"
+#    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,8 +61,10 @@ user_groups:
 - Visitors
 ---
 
-Roberto Bifulco leads the Intelligent Software Systems (ISS) group at the NEC Laboratories Europe, in Heidelberg (Germany).
-His main research contributions are in the field of high-performance networked systems, especially for the broadband network infrastructure.
-His current research interests include efficient heterogeneous systems, networked systems analysis and sustainable edge computing.
+I lead the **Intelligent Software Systems** (ISS) group at the *NEC Laboratories Europe*, in Heidelberg (Germany).
+My main research contributions are related to the design and implementation of computer systems, with a focus on networking.
+I am also generally interested in the design of computer architectures and programming models, and in the monitoring and analysis of complex networked systems' behavior. 
+Before joining NEC in 2012, I worked with startups and SMEs in cloud and IoT fields, with relevant work focused on the design of SMEs IT infrastructure virtualization, vehicle fleet monitoring and scalable video-audio sensor data collection. 
+I hold a Ph.D. from the oldest state-supported higher education institution in the world: the University of Napoli "Federico II" (Italy).
 
-Roberto's expertise is complemented by a formidable group of colleagues in the ISS group, covering a larger spectrum of topics ranging from high-performance computing systems to specialized operating systems for cloud servers and embedded devices.
+In the ISS group, I am lucky to work with a formidable group of colleagues that cover a larger spectrum of topics, including high-performance computing systems, specialized operating systems for cloud servers and embedded devices, software-defined networking and network data analysis.
