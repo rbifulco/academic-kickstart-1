@@ -6,7 +6,7 @@ authors: ["Carmelo Cascone", "Roberto Bifulco", "Salvatore Pontarelli", "Antonio
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*CoRR*"
+publication: "*CoRR* (A revised version of this paper appeared in SIGCOMM CCR, 2018)"
 url_pdf: "http://arxiv.org/abs/1703.05442"
 ---
 

@@ -6,7 +6,7 @@ authors: ["Giuseppe Siracusano", "Roberto Bifulco"]
 publication_types: ["2"]
 abstract: ""
 featured: true 
-publication: "*CoRR*"
+publication: "*CoRR* (Presented at SysML '18)"
 url_pdf: "http://arxiv.org/abs/1801.05731"
 ---
 

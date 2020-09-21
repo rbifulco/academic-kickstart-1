@@ -6,7 +6,7 @@ authors: ["Carmelo Cascone", "Roberto Bifulco", "Salvatore Pontarelli"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*CoRR*"
+publication: "*CoRR* (Presented as poster at NSDI '17)"
 url_pdf: "http://arxiv.org/abs/1702.02347"
 ---
 
