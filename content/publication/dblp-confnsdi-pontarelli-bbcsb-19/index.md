@@ -2,7 +2,7 @@
 title: "FlowBlaze: Stateful Packet Processing in Hardware"
 date: 2019-01-01
 publishDate: 2020-09-05T14:02:05.640957Z
-authors: ["Salvatore Pontarelli", "Roberto Bifulco", "Marco Bonola", "Carmelo Cascone", "Marco Spaziani", "Valerio Bruschi", "Davide Sanvito", "Giuseppe Siracusano", "Antonio Capone", "Michio Honda", "Felipe Huici"]
+authors: ["Salvatore Pontarelli", "Roberto Bifulco", "Marco Bonola", "Carmelo Cascone", "Marco Spaziani", "Valerio Bruschi", "Davide Sanvito", "Giuseppe Siracusano", "Antonio Capone", "Michio Honda", "Felipe Huici", "Giuseppe Bianchi"]
 publication_types: ["1"]
 abstract: ""
 featured: true 
